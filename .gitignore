@@ -109,3 +109,6 @@ venv.bak/
 config.py
 test.py
 .ipynb
+
+# for mac 
+*.DS_Store
